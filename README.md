@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Shiva Gupta
 
-<!--
-**Shivay-98/Shivay-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN)
 
-Here are some ideas to get you started:
+🤖 Interested in AI & Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning TypeScript, Next.js, and System Design
+
+---
+
+## 🚀 Tech Stack
+
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- Express
+- MongoDB
+- Git & GitHub
+
+---
+
+## 🌟 Featured Projects
+
+- 🤖 AI Form Filler
+- 🎓 Study Notion
+- 💼 CareerCopilot
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/shiva-gupta-55033b317
+- 🌐 Portfolio: https://portfolio-shivagupta.vercel.app/
+
+---
+
+⭐ Currently contributing to Open Source (Appwrite)
